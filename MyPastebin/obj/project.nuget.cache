@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "snFA+/eYvZSTse0nmxxPMWE6r7pqcmXtbcLZar4A7tcCv2gjKWrYHddY3ufCx60dLBXZdDgDrKg073hUnwX1Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ppotu\\source\\repos\\MyPastebin\\MyPastebin\\MyPastebin.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Вы выполняете операцию ''restore'' с источником ''HTTP'', ''http://10.111.15.59:5055/nuget''. Доступ без HTTPS будет удален в будущей версии. Рассмотрите возможность перехода на источник ''HTTPS''."
+    }
+  ]
+}
